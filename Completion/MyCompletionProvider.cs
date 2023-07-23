@@ -128,7 +128,7 @@ namespace Completion
             var newText = item.Properties[NewTextKey];
 
 
-            const bool TEST_REDUCE_ASYNC = false;
+            const bool TEST_REDUCE_ASYNC = true;
 
 
             if (TEST_REDUCE_ASYNC)
